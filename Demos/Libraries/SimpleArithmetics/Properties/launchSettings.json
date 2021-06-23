@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimpleArithmetics": {
+      "commandName": "Executable",
+      "executablePath": "H:\\Code\\CTI\\bin\\Debug\\netcoreapp3.1\\CTI.exe"
+    }
+  }
+}
