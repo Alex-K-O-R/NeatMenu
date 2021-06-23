@@ -1,0 +1,9 @@
+H:\Code\CTI\Utilities\Conn\bin\Debug\netcoreapp3.1\Conn.deps.json
+H:\Code\CTI\Utilities\Conn\bin\Debug\netcoreapp3.1\Conn.dll
+H:\Code\CTI\Utilities\Conn\bin\Debug\netcoreapp3.1\Conn.pdb
+H:\Code\CTI\Utilities\Conn\obj\Debug\netcoreapp3.1\Conn.csprojAssemblyReference.cache
+H:\Code\CTI\Utilities\Conn\obj\Debug\netcoreapp3.1\Conn.AssemblyInfoInputs.cache
+H:\Code\CTI\Utilities\Conn\obj\Debug\netcoreapp3.1\Conn.AssemblyInfo.cs
+H:\Code\CTI\Utilities\Conn\obj\Debug\netcoreapp3.1\Conn.csproj.CoreCompileInputs.cache
+H:\Code\CTI\Utilities\Conn\obj\Debug\netcoreapp3.1\Conn.dll
+H:\Code\CTI\Utilities\Conn\obj\Debug\netcoreapp3.1\Conn.pdb
